@@ -9,7 +9,7 @@
 
 ### 🚀 About Me
 
-- 🔭 Currently working on: *none*
+- 🔭 Currently study on: *Institute Technology Sepuluh Nopember*
 - 🌱 Currently learning: *Deep Learning, NLP, dll*
 - 💬 Ask me about: *Java, Python, Data Analysis, Machine Learning*
 - 📫 How to reach me: *erlanggafedityahartanto@gmail.com*
