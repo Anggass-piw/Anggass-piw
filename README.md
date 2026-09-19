@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Erlangga Feditya Hartanto</h1>
-<h3 align="center">Data Science & AI Enthusiast | Turning Data into Insights</h3>
+<h3 align="center">From Mathematics ITS</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=500&lines=Data+Scientist+in+the+making;Machine+Learning+%7C+Python+%7C+SQL;Always+learning+something+new" alt="Typing SVG" />
