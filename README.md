@@ -58,8 +58,7 @@
 
 <p align="left">
   <a href="https://linkedin.com/in/erlangga-feditya-hartanto" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="32px"/></a>
-  <a href="mailto:erlanggafedityahartanto@gmail.com" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" width="32px"/></a>
-    <a href="https://www.instagram.com//angga_dtyh?stkn=YTluMjRyMWppM2dh" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="32px"/></a>
+  <a href="https://www.instagram.com//angga_dtyh?stkn=YTluMjRyMWppM2dh" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="32px"/></a>
 </p>
 
 ---
