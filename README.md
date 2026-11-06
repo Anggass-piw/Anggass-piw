@@ -1,66 +1,25 @@
-<h1 align="center">Hi 👋, I'm Erlangga Feditya Hartanto</h1>
-<h3 align="center">From Mathematics ITS</h3>
+# Hi, I'm Erlangga Feditya Hartanto
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=500&lines=Data+Scientist+in+the+making;Machine+Learning+%7C+Python+%7C+SQL;Always+learning+something+new" alt="Typing SVG" />
-</p>
+I'm a student at Institut Teknologi Sepuluh Nopember (ITS), interested in mathematics, quantitative analysis, embedded systems, and engineering. I enjoy building practical projects that explore ideas across software, computation, and hardware.
 
----
+## Selected projects
 
-### 🚀 About Me
+- [Quant Risk Terminal](https://github.com/Anggass-piw/quant-risk-terminal) — educational portfolio-risk dashboard using synthetic data, Monte Carlo simulation, and local stress tests.
+- [Orbital OKX Terminal](https://github.com/Anggass-piw/orbital-okx-terminal) — PWA for public market data, indicators, position sizing, and local paper-trade records.
+- [Bionic Hand Firmware](https://github.com/Anggass-piw/bionic-hand-firmware) — ESP32 educational prototype with signal processing, servo control, editable CAD, and a serial monitor.
+- [IoT Power Monitor](https://github.com/Anggass-piw/iot-power-monitor) — ESP32 monitoring project with a Python API, SQLite storage, and a browser dashboard.
+- C++ engineering: [Tensor Autodiff](https://github.com/Anggass-piw/tensor-autodiff-cpp) · [3D Computational Geometry](https://github.com/Anggass-piw/comp-geom-3d) · [FEM Solver](https://github.com/Anggass-piw/fem3d-solver-cpp) · [LBM CFD Core](https://github.com/Anggass-piw/lbm-cfd-core)
+- Cryptography learning: [Cryptography Exercises](https://github.com/Anggass-piw/proyek-kripto) · [ECC Core C++](https://github.com/Anggass-piw/ecc-core-cpp)
 
-- 🔭 Currently study on: *Institute Technology Sepuluh Nopember*
-- 🌱 Currently learning: *Deep Learning, NLP, dll*
-- 💬 Ask me about: *Java, Python, Data Analysis, Machine Learning*
-- 📫 How to reach me: *erlanggafedityahartanto@gmail.com*
-- ⚡ Fun fact: *Orangnya fomoan + suka belajar hal baru + wibu*
+## Tools and technologies
 
----
+Languages: C++, Python, JavaScript, TypeScript, Java
+Web and data: React, Vite, FastAPI, SQLite, NumPy, pandas, SciPy, Plotly
+Embedded and engineering: ESP32, Arduino, PlatformIO, OpenSCAD, CMake, CTest
+Cryptography: OpenSSL, Boost.Multiprecision
 
-### 🛠️ Tech Stack
+These technologies are drawn from my repositories and represent different project contexts—not a claim of equal experience with every tool.
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,r,sqlite,mysql,tensorflow,pytorch,sklearn,pandas,numpy,jupyter,git,github,java,vscode,linux" />
-</p>
+## A note on these projects
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Anggass-piw&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anggass-piw&layout=compact&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anggass-piw&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
----
-
-### 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Anggass-piw/Anggass-piw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Anggass-piw&theme=tokyonight&row=1&column=6" />
-</p>
-
----
-
-### 🌐 Connect With Me
-
-<p align="left">
-  <a href="https://linkedin.com/in/erlangga-feditya-hartanto" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="32px"/></a>
-  <a href="https://www.instagram.com//angga_dtyh?stkn=YTluMjRyMWppM2dh" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="32px"/></a>
-</p>
-
----
-
-<p align="center"><i>Thanks for visiting my profile! ⭐ Feel free to check out my pinned repositories below.</i></p>
+Many are educational prototypes or MVPs. Trading projects focus on analysis, simulation, or paper trading; they are not investment advice. Please check each repository’s README and safety notes before use.
